@@ -1,0 +1,19 @@
+# Update Nest Abonus
+
+Optimization logic
+
+old address: 0x32E4BCD2b6183501517616FBffaA9335069E0807
+
+new address: 0xF67B829397Dc05751a98f243DbdE5Db63f86E7f6
+
+
+---
+
+
+# 升级Nest分红逻辑合约
+
+优化分红逻辑
+
+旧地址: 0x32E4BCD2b6183501517616FBffaA9335069E0807
+
+新地址: 0xF67B829397Dc05751a98f243DbdE5Db63f86E7f6
