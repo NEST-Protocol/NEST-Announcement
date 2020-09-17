@@ -12,6 +12,8 @@ Upgrade time: 12:00, September 18, 2020
 
 4. Quotation deviation penalty changed from 100ETH to 300ETH
 
+5. Cancel the one-thousandth fee for taking orders, from one-thousandth to zero
+
 > Quotation miners prepare in advance
 
 
@@ -36,6 +38,8 @@ NestCore team
 3. 最低吃单资产规模由10ETH改为30ETH
 
 4. 报价偏离惩罚由100ETH改为300ETH
+
+5. 取消千分之一的吃单手续费，由千分之一改为零
 
 > 报价矿工提前做好准备
 
