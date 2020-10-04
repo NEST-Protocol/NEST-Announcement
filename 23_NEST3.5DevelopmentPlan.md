@@ -2,17 +2,17 @@
 
 NEST Protocol v3.5 version development plan:
 
-1. Intensive optimization of the overall gas consumption of the NEST system,  to reduce the operating cost of each link of the NEST system;
+1. Intensive optimization of the overall gas consumption of the NEST system, to reduce the operating cost of each sub contracts of the NEST system;
 
 2. Refactor the code of NEST Protocol to improve the security and stability of the NEST system;
 
-3. Cancel the distribution of 5% mining income to NestCore. This part of NEST Token is used to motivate the callers of the NEST price oracle, and the distribution of the motivation will be  in the form of random release (tentative);
+3. Remove the distribution of 5% mining income to NestCore. This part of NEST Token will be used to motivate the callers of the NEST price oracle, and the distribution of the those NEST reward will be in the form of random release (tentative);
 
-4. To solve the problem that the excessive gasprice causes the increase of mining costs and the decrease of NEST yield rate, consider charging the quotation fee based on gasprice (tentative);
+4. To solve the problem of the increase of mining costs and the decrease of NEST yield rate caused by the excessive gasprice, consider charging the quotation fee based on gasprice (tentative);
 
 5. Modify the income collection mechanism of the NEST system and adopt the net value model (tentative);
 
-6. After the stable operation of NEST V3.5 for a period of time, the NestCore permission wll be  removed. Then NEST Protocol  wll enter the NEST DAO era, and the system will be  upgraded through NEST voting.
+6. After the stable operation of NEST V3.5 for a period of time, the NestCore permission will be removed. Then NEST Protocol will enter the NEST DAO era, and the system will be upgraded through NEST voting.
 
 > NEST V3.5 version development cycle: 2020.09 ~ 2020.11
 
@@ -22,11 +22,7 @@ NestCore team
 
 2020.09.04
 
-
-
 ------
-
-
 
 # NestCore：NEST v3.5 开发者计划
 
