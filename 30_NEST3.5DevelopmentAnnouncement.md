@@ -42,7 +42,7 @@ You can deposit, withdraw, and receive income anytime.
 
 #### Fund allocation
 ##### Quotation fee
-###### NEST
+###### NEST Token
 - 20% goes to the NEST DAO
 - 80% goes to the revenue pool
 
