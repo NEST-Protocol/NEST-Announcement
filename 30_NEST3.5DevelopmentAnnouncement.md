@@ -50,7 +50,7 @@ You can deposit, withdraw, and receive income anytime.
 
 - 20% goes to the QPToken_DAO
 - 20% goes to the NEST_DAO
-- 60% goes to the the NToken revenue pool
+- 60% goes to the the QP Token revenue pool
 
 ##### Call fee
 
