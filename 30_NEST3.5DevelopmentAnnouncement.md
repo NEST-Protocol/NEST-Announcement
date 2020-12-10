@@ -8,11 +8,11 @@ Github: https://github.com/NEST-Protocol/NEST-Oracle-V3.5
 
 The audit will be carried out at the end of December, and the audit is expected to be completed in 2 weeks.
 
-### Important updates
-#### Quote
+### Important Updates
+
+#### Price Quotation Mechanism
 
 Update the NEST quotation mechanism. Quotation mining requires simultaneous quotation of two trading pairs and NEST staking. Any quotation will require two denominated assets to quote the price instead of using a single denominated asset. Currently, one with ETH and another with the Quotation Pool Token.
-
 
 Namely: ETH/USDT, ETH/NEST or ETH/HBTC, ETH/NHBTC...
 
@@ -21,27 +21,28 @@ Namely: ETH/USDT, ETH/NEST or ETH/HBTC, ETH/NHBTC...
 - Quotation needs to be mortgaged NEST, take orders need to mortgage 2 times NEST.
 - The maximum block cumulative reward for QP Token quotation mining is 300 blocks.
 
-#### Quotation certificate- QP Token
-##### Open QP Token
+#### Quotation certificate (QP Token)
+##### Initialising new QP Token
 
-You can open quotation pairs freely, you need to pay NEST fees, and NEST goes to DAO。
 
-Cancel auction, cancel 5% auctioneer allocation (the previous QP Token remains unchanged).
+You can initialise any new quotation pairs with an fee payable in NEST token and the fee will go to DAO。
 
-##### Quotation document allocation
-###### NEST Token
+Cancel auction, cancel 5% price pair bidder allocation (Maintaining the rewards sharing arrangement prior to the 3.5 release).
+
+#### Quotation Document allocation
+##### NEST Token
 
 - Guardian Node: 15%
 - NEST DAO: 5%
 - Quotation Miner: 80%
 
-###### QP Token
+#### QP Token
 
 - Quotation Miner: 100%
 
 #### Income
 
-You can deposit, withdraw, and receive income anytime.
+Update the system income reward model, the system income rewards can be claimed anytime and based on the total staking duration. Unclaimed rewards can be collect even after the weekly claiming cut-off time.
 
 #### Fund allocation
 ##### Quotation fee
