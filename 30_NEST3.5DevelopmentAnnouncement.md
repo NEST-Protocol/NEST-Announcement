@@ -18,6 +18,9 @@ Namely: ETH/USDT, ETH/NEST or ETH/HBTC, ETH/NHBTC...
 
 > Since other tokens have not released enough quotation vouchers (QP Token) after opening, two quotations cannot be made at the same time. The single quotation interface is still reserved. When the corresponding quotation certificate (QP Token) exceeds 1 million, the interface automatically becomes invalid.
 
+- Quotation needs to be mortgaged NEST, take orders need to mortgage 2 times NEST.
+- The maximum block cumulative reward for QP Token quotation mining is 300 blocks.
+
 #### Quotation certificate- QP Token
 ##### Open QP Token
 
