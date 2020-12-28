@@ -4,7 +4,7 @@ As a decentralized price provider on the chain, NEST has been working hard to re
 
 In the next version of NEST, some adjustments are determined. For example, in order to reduce the quotation Gas merges the main currency quotation and the Ntoken quotation; increase the miner quotation to pledge NEST; lower the threshold for opening a new oracle; increase the volatility and average price indicators ( It will be more convenient for DeFi downstream usage), which will be certainly introduced in NEST3.5, but there are some important adjustments that require community participation and support.
 
-### 1.Change dividends to repurchase (according to market price).
+### 1.Change dividends to repurchase based on the market price.
 
 Rationale behind the change: 
 
@@ -16,31 +16,36 @@ Rationale behind the change:
 
 4. The change in dividends to repurchase has changed greatly. The challenge is whether the NEST oracle quotation system is timely enough, whether the game of miners is effective, whether the secondary market and the repurchase system are consistent, etc. This requires the gradual strengthening and improvement of the entire system. But repurchase will increase the use of oracles, which is also the creation of the most basic demand: internal settlement demand.
 
-### 2. An important application is made around the internal requirements of the NEST system: parallel assets, which requires the NEST protocol to be compatible with parallel asset quotations.
+### 2. An important application is made around the internal requirements of the NEST system: Parallel Assets, which requires the NEST protocol to be compatible with parallel asset quotations.
 
 Rationale behind the change:
 
-1. The core idea of parallel assets is to generate a "parallel world" of ETH based on the price data of NEST system assets and oracles: any asset has a 1:1 parallel asset with an inherent value for system quotation. For details, see the parallel asset white paper. Taking ETH/USDT quoted by miners as an example, miners need to hold these two assets. Once the quotation density is high, or if the order takes place, they need to hold more ETH and USDT, so they must bear the price risk of the two quotation assets. , But if you rely on NEST to generate two kinds of assets, you only need to pay a certain amount of "interest" without having to bear the overall risk of asset fluctuations. This has been the demand of miners. This demand makes use of both NEST itself and the NEST oracle.
+1) The core idea of Parallel Assets is to generate a "parallel world" of Ethereum based on the price data of NEST system assets and oracles: any asset has a 1:1 parallel asset with an inherent value for system quotation. For details, see the Parallel Asset white paper. Taking ETH/USDT quoted by miners as an example, miners need to hold these two assets. Once the quotation density is high, or if the order takes place, they need to hold more ETH and USDT, so they must bear the price risk of the two quotation assets. , But if you rely on NEST to generate two kinds of assets, you only need to pay a certain amount of "interest" without having to bear the overall risk of asset fluctuations. This has been the demand of miners. This demand makes use of both NEST itself and the NEST oracle.
 
-2. Parallel assets allow NEST to build an ecosystem that takes the NEST system as the starting point and gradually covers the NEST community, NEST related parties, and the DeFi world, and all of this is based on real and stable needs first, thereby continuously increasing the frequency of call and value of NEST oracle.
+2) Parallel Assets allow NEST to build an ecosystem that takes the NEST system as the starting point and gradually covers the NEST community, NEST related parties, and the DeFi world, and all of this is based on real requirements first, thereby continuously increasing the frequency of usage and value of NEST oracles.
 
-3. Parallel assets enable holding NEST itself to hold various assets on ETH (as long as there is a quote), thereby increasing the leverage ratio of the system (previously 1) and increasing the total value of the NEST ecosystem.
+3) Parallel Assets enable holding NEST itself to hold various assets on ETH (as long as there is a quote), thereby increasing the leverage ratio of the system (previously 1) and increasing the total value of the NEST ecosystem.
 
-4. Parallel assets put forward higher requirements for NEST quotation and product design, especially the NEST system compatible with parallel asset quotation is a process that needs to be gradually improved, requiring repeated thinking and support from the community.
+4) Parallel Assets put forward higher requirements for NEST quotation and product design, especially the NEST system compatible with parallel asset quotation is a process that needs to be gradually improved, requiring repeated thinking and support from the community.
 
-### 3. The long term vision of NEST system and future opportunities
+### 3. The long-term vision of NEST system and future opportunities
 
 The above are the important improvements of the NEST system that require deep community participation and discussion. In addition, the NEST CORE team also proposed future positioning and overall development route for community discussion:
 
-1. NEST is not only positioned as a price oracle machine, but a generator of native assets on the chain. The NEST system will generate more assets on the original chain like NEST and Ntoken (the value capture is entirely on the chain, and the entire process is completely decentralized). Different from secured assets such as USDT, it enriches the types and quantities of assets on the chain, and prepares for true decentralized finance or applications.
+1. NEST is not only positioned as a price oracle, but a generator of native assets on the chain. The NEST system will generate more native assets on chain like NEST and Ntoken (the value capture is entirely on the chain, and the entire process is completely decentralized). Different from secured assets such as USDT, it enriches the types and quantities of assets on the chain, and prepares for true decentralized finance or applications.
 
 2. In version 3.5, NEST will fully launch voting and other decentralized governance models to achieve comprehensive decentralization. All subsequent modifications will strictly implement the voting process.
 
-3. The Core team will continue to propose two new versions for the NEST system: NEST4.0, which will realize the randomness of miners’ quotations, thereby alleviating the current community’s concerns about the concentration of miners. NEST5.0, to solve the problem of insufficient incentives for verifiers, that is, to improve the mandatory and effective price verification. In these two versions, what also needs to be solved is the automatic adaptation of quotation fees, scale and GAS to ensure the stability and continuity of quotation density. The above three problems are still under development, and there is no 100% sure solution yet, but the NEST Core team will carry out continuous research and development around these problems.
+3. The Core team will continue to propose two new versions for the NEST system: 
 
-4. The NEST Core team will propose more brand-new financial designs on the chain as a community participant. The information flow transactions, game asset management and equilibrium coins currently at the conceptual design level are completely different from traditional financial products and belong to new things.
+NEST4.0, which might realize the random choice of miners for quotations, thereby alleviating the current community’s concerns about the concentration of miners. NEST 5.0, to solve the problem of insufficient incentives for verifiers, that is, to improve the mandatory and effective price verification. In these two versions, what also needs to be solved is the automatic adaptation of quotation fees, scale and Gas to ensure the stability and the continuity of high quotation density. The above three problems are still under development, and these ideas are not set in stones yet, but the NEST Core team will carry out continuous research and development around these problems.
+
+4. The NEST Core team will propose more brand-new financial designs on the chain as a community participant. The information stream trading, game-theory asset management and equilibrium digital asset currently at the conceptual design level are completely different from traditional financial products and will bring new concepts and ideas to this ever-changing world.
 
 5. The development lifecycle of each version of NEST could take about 1-2 years, through it could progress faster.
 
-Finally, NEST Core once again expresses our belief in the value of blockchain: we firmly believe that a set of completely decentralized native assets, combined with a new financial model, will create an unprecedented order on the chain, a completely dominated by algorithms and non-cooperative games. This is a subversive change in the entire history of human value and organization.
+## Closing words
+
+Finally, NEST Core once again expresses our belief in the value of blockchain: we firmly believe that a set of completely decentralized native assets, combined with a new financial model, will create an unprecedented order on the chain, completely dominated by algorithms and non-cooperative games. This is a subversive change in the entire history of human value creation and organization structure.
+
 
