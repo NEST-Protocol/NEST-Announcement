@@ -4,7 +4,7 @@ As a decentralized price provider on the chain, NEST has been working hard to re
 
 In the next version of NEST, some adjustments are determined. For example, in order to reduce the quotation Gas merges the main currency quotation and the Ntoken quotation; increase the miner quotation to pledge NEST; lower the threshold for opening a new oracle; increase the volatility and average price indicators ( It will be more convenient for DeFi downstream usage), which will be certainly introduced in NEST3.5, but there are some important adjustments that require community participation and support.
 
-### 1.Change dividends to repurchase based on the market price.
+### 1. Replace dividends with repurchase based on the market price.
 
 Rationale behind the change: 
 
@@ -16,7 +16,7 @@ Rationale behind the change:
 
 4. The change in dividends to repurchase has changed greatly. The challenge is whether the NEST oracle quotation system is timely enough, whether the game of miners is effective, whether the secondary market and the repurchase system are consistent, etc. This requires the gradual strengthening and improvement of the entire system. But repurchase will increase the use of oracles, which is also the creation of the most basic demand: internal settlement demand.
 
-### 2. An important application is made around the internal requirements of the NEST system: Parallel Assets, which requires the NEST protocol to be compatible with parallel asset quotations.
+### 2. An important application is made around the community requirements of the NEST system: Parallel Assets, which requires the NEST protocol to be compatible with parallel asset quotations.
 
 Rationale behind the change:
 
@@ -38,7 +38,9 @@ The above are the important improvements of the NEST system that require deep co
 
 3. The Core team will continue to propose two new versions for the NEST system: 
 
-NEST4.0, which might realize the random choice of miners for quotations, thereby alleviating the current community’s concerns about the concentration of miners. NEST 5.0, to solve the problem of insufficient incentives for verifiers, that is, to improve the mandatory and effective price verification. In these two versions, what also needs to be solved is the automatic adaptation of quotation fees, scale and Gas to ensure the stability and the continuity of high quotation density. The above three problems are still under development, and these ideas are not set in stones yet, but the NEST Core team will carry out continuous research and development around these problems.
+* NEST 4.0, which might realize the random choice of miners for quotations, thereby alleviating the current community’s concerns about the concentration of miners.
+
+* NEST 5.0, to solve the problem of insufficient incentives for verifiers, that is, to improve the mandatory and effective price verification. In these two versions, what also needs to be solved is the automatic adaptation of quotation fees, scale and Gas to ensure the stability and the continuity of high quotation density. The above three problems are still under development, and these ideas are not set in stones yet, but the NEST Core team will carry out continuous research and development around these problems.
 
 4. The NEST Core team will propose more brand-new financial designs on the chain as a community participant. The information stream trading, game-theory asset management and equilibrium digital asset currently at the conceptual design level are completely different from traditional financial products and will bring new concepts and ideas to this ever-changing world.
 
