@@ -20,11 +20,11 @@ Rationale behind the change:
 
 Rationale behind the change:
 
-1) The core idea of Parallel Assets is to generate a "parallel world" of Ethereum based on the price data of NEST system assets and oracles: any asset has a 1:1 parallel asset with an inherent value for system quotation. For details, see the Parallel Asset white paper. Taking ETH/USDT quoted by miners as an example, miners need to hold these two assets. Once the quotation density is high, or if the order takes place, they need to hold more ETH and USDT, so they must bear the price risk of the two quotation assets. , But if you rely on NEST to generate two kinds of assets, you only need to pay a certain amount of "interest" without having to bear the overall risk of asset fluctuations. This has been the demand of miners. This demand makes use of both NEST itself and the NEST oracle.
+1) The core idea of Parallel Assets is to generate a "parallel world" of Ethereum based on the price data of NEST system assets and oracles: any asset has a 1:1 parallel asset with an inherent value for system quotation. For details, see the Parallel Asset white paper. Taking ETH/USDT quoted by miners as an example, miners need to hold these two assets. Once the quotation density is high, or if the order takes place, they need to hold more ETH and USDT, so they must bear the price risk of the two quotation assets. , But if you rely on NEST/nToken to generate two kinds of assets, you only need to pay a certain amount of "interest" without having to bear the overall risk of asset fluctuations. This has been the demand of miners. This demand makes use of both NEST itself and the NEST oracle.
 
 2) Parallel Assets allow NEST to build an ecosystem that takes the NEST system as the starting point and gradually covers the NEST community, NEST related parties, and the DeFi world, and all of this is based on real requirements first, thereby continuously increasing the frequency of usage and value of NEST oracles.
 
-3) Parallel Assets enable holding NEST itself to hold various assets on ETH (as long as there is a quote), thereby increasing the leverage ratio of the system (previously 1) and increasing the total value of the NEST ecosystem.
+3) Parallel Assets enable holding NEST/nToken asset to hold various assets on ETH (as long as there is a quote), thereby increasing the leverage ratio of the system (previously 1) and increasing the total value of the NEST ecosystem.
 
 4) Parallel Assets put forward higher requirements for NEST quotation and product design, especially the NEST system compatible with parallel asset quotation is a process that needs to be gradually improved, requiring repeated thinking and support from the community.
 
