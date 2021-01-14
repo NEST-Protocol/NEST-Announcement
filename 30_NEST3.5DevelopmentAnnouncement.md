@@ -24,7 +24,7 @@ Namely: ETH/USDT, ETH/NEST or ETH/HBTC, ETH/NHBTC...
 #### Quotation certificate- QP Token
 ##### Open QP Token
 
-You can open quotation pairs freely, you need to pay NEST fees, and NEST goes to DAO。
+You can open quotation pairs freely, you need to pay a fee in NEST, and fee goes to DAO。
 
 Cancel auction, cancel 5% auctioneer allocation (the previous QP Token remains unchanged).
 
