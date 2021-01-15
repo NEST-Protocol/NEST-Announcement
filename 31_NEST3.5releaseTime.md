@@ -7,7 +7,7 @@ The audit of the NEST3.5 contract has been completed and the final commissioning
 
 github:https://github.com/NEST-Protocol/NEST-Oracle-V3.5
 
-> The mainnet contract address will be announced in a future announcement。
+> The mainnet contract address will be announced in a future announcement.
 
 NestCore
 
