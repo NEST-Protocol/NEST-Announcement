@@ -4,7 +4,7 @@
 
 2. Completely elimination of dividends with all income used for repurchase.
 
-3. Quotation scale adjustment: NEST Token dual track quotation scale 30 ETH unchanged, nToken quotation scale adjusted to 10 ETH, quotation fee of NEST Token and nToken adjusted from 0.33% of the scale ratio to a fixed value of 0.1 ETH.
+3. Quotation scale adjustment: NEST Token dual track quotation scale 30 ETH unchanged, nToken quotation scale adjusted to 10 ETH, quotation fee of NEST Token and nToken adjusted from 0.33% of the scale to 1~255 times of 0.1ETH.
 
 4. The quantity of verification block is proposed to be adjusted from 25 to 20.
 
