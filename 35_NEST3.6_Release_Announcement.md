@@ -1,3 +1,14 @@
+# NEST 3.6 will release on Ethereum mainnet
+
+Upgrade time: Apr-27-2021 09:00 AM +UTC
+
+Upgrade deployment for the NEST V3.6 is under preparation.
+
+
+github: https://github.com/NEST-Protocol/NEST-Oracle-V3.6
+
+> The mainnet contract address will be announced in a future announcement.
+
 # NEST Protocol v3.6 will continue the repurchase model of v3.5 on the basis of the following functionally：
 
 1. Add a voting governance module which will remove system maintenance accounts by voting after v3.6 launches. Decentralize developer rights to the community and require 51% votes for any changes of the protocol.
@@ -20,17 +31,6 @@ Non-functional adjustments:
 
 After the official launch of NEST Protocol v 3.6, a series of financial products developed based on NEST Protocol will also be launched one after another during this period. By that time, oracle will serve as the core function of NEST Protocol and the whole protocol will be transformed into an on-chain non-cooperative game system.
 
-# NEST 3.6 will release on Ethereum mainnet
-
-Upgrade time: 2021.04.20 to 2021.04.30
-
-The audit of the NEST3.6 contract is commissioning is currently in progress.
-
-
-github:https://github.com/NEST-Protocol/NEST-Oracle-V3.6
-
-> The mainnet contract address will be announced in a future announcement.
-
 NestCore
 
-2021.04.10
+2021.04.22
