@@ -15,11 +15,19 @@ github: https://github.com/NEST-Protocol/NEST-Oracle-V3.6
 
 2. Completely elimination of dividends with all income used for repurchase.
 
-3. Quotation scale adjustment: NEST Token dual track quotation scale 30 ETH unchanged, nToken quotation scale adjusted to 10 ETH, quotation fee of NEST Token and nToken adjusted from 0.33% of the scale to 1~255 times of 0.1ETH.
+3. Quotation scale adjustment: NEST Token dual-track quotation scale 30 ETH unchanged, nToken quotation scale adjusted to 10 ETH.
 
-4. The quantity of verification block is proposed to be adjusted from 25 to 20.
+4. Both quotation fees are adjusted from 0.33% of the scale to positive integer multiples of a fixed unit fee and up to 255 times. The unit fee of NEST is 0.1ETH and the unit fee of nToken is 0.05ETH.
 
-5. NestNode Token independent mining separates from NEST miner mining and gets NEST Token by block with the 15% speed of all NEST Token mining.
+5. The rate of NEST ming by launching enters the next damping period when 204 NEST will be mined in each block.
+
+6. The upper limit of the block interval of nToken mining is adjusted to 300.
+
+7. Charges for opening nToken oracle are adjusted to 1000 NEST.
+
+8. The quantity of verification blocks is adjusted from 25 to 20.
+
+9. NestNode Token independent mining separates from NEST miner mining and gets NEST Token by block with the 15% speed of all NEST Token mining.
 
 Non-functional adjustments:
 
