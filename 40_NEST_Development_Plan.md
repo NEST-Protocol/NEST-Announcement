@@ -17,11 +17,12 @@ Interpretation: provide a more generalized oracle model, through the non-coopera
 Current progress: NESTReserch is responsible.
 
 ## 2. NEST's recent plans
-### 1. Dynamic parameter adjustment will be carried out in advance
 
-### 2. NEST will introduce cross-chain deployment, cross-chain NEST assets and 1:1 anchoring on ETH, cross-chain contains BSC\HECO\OKchain, etc., also includes some sidechains of layer2.
+1. Dynamic parameter adjustment will be carried out in advance
 
-### 3. After completing the cross-chain deployment and ensured stable operation, a vote will be conducted to remove multi-signature permission of NEST on ETH.
+2. NEST will introduce cross-chain deployment, cross-chain NEST assets and 1:1 anchoring on ETH, cross-chain contains BSC\HECO\OKchain, etc., also includes some sidechains of layer2.
+
+3. After completing the cross-chain deployment and ensured stable operation, a vote will be conducted to remove multi-signature permission of NEST on ETH.
 
 NestCore
 
