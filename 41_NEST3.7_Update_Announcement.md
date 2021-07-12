@@ -1,4 +1,6 @@
-# NEST 3.6 Update Announcement
+# NEST 3.7 Update Announcement
+
+Upgrade time: Jul-14-2021
 
 1. Add earning rate for nest price interface.
 
