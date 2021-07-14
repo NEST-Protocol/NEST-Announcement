@@ -1,6 +1,8 @@
 # NEST 3.7 Update Announcement
 
-Upgrade time: Jul-14-2021
+Nest protocol has been upgraded to 3.7.
+
+Upgrade time: Jul-14-2021 09:30 AM +UTC
 
 1. Add earning rate for nest price interface.
 
@@ -16,4 +18,4 @@ github: https://github.com/NEST-Protocol/NEST-Oracle-V3.6
 
 NestCore
 
-2021.07.12
+2021.07.14
