@@ -31,7 +31,9 @@ NEST open version will be released on BSC on November 20, 2021. The details are 
 | post fee | 0 | |
 | single fee | 0.005BNB	| |
 | Standard reward per block | 4NEST | Note that the attenuation will be calculated from the opening block, that is, this parameter is the ore yield of the block in the first attenuation interval after opening |
-| reduction rate | 0.8 |	
+| reduction rate | 0.8 |
+
+6. 100 million NEST will be taken from the nest ledger contract of Ethereum main network to BSC network, and injected into ETH/USDT quotation channel as mineral currency.
 
 Nest Core
 
