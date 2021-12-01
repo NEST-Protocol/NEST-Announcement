@@ -16,7 +16,7 @@ NestCore
 
 # NEST Oracle price contract upgrade completed
 
-1. The mechanism to remove 20% of the call fee allocated to miners from each call fee (downstream DeFi growth period);
+1. Removed 20% of the call fee which were allocated to miners in the previouse version (To facilitate the growth of NEST downstream DeFi apps);
 
 2. All call fees for NEST-Price data are uniformly fixed at 0.01 ETH, regardless of the token and the amount of price called;
 
