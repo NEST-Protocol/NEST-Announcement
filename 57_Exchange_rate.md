@@ -7,10 +7,10 @@ This announcement explains the specific calculation method of the 7-day average 
 1) Calculate the daily average price* for each day from July 8th to July 14th, 2022
 2) Calculate the arithmetic average of the daily average prices obtained in 1) as the 7-day average price 
 
-*Note: the daily average price is the arithmetic average of all prices for the day. Specifically, all prices for the day for $DCU include the prices corresponding to all transactions that occur in the FORT official DCU swap of the day. All prices for the day for $NEST are all quotation prices for the day from the NEST oracle on BNB chain.
+*Note: the daily average price is the arithmetic average of all prices for the day. Specifically, all prices for the day for DCU include the prices corresponding to all transactions that occur in the FORT official DCU swap of the day. All prices for the day for NEST are all quotation prices for the day from the NEST oracle on BNB chain.
 
 
-Based on the above method and data from July 8th to July 14th, 2022, the 7-day average prices for $DCU and $NEST are equal to 0.253139024 USDT and 0.032586735 USDT, respectively. Thus the exchange rate for the merger of the NEST protocol and FORT protocol is 1 $DCU = 7.768161615 $NEST
+Based on the above method and data from July 8th to July 14th, 2022, the 7-day average prices for DCU and NEST are equal to 0.253139024 USDT and 0.032586735 USDT, respectively. Thus the exchange rate for the merger of the NEST protocol and FORT protocol is 1 DCU = 7.768161615 NEST
 
 
 
