@@ -15,7 +15,7 @@ Specific adjustments are as follows
 
 ## Status Adjustments
 ### Before
-|||
+|Member|Balance|
 |---|---|
 |3.6 Mining Pool|4936701701 NEST|
 |NESTDAO|344284214 NEST|
@@ -23,7 +23,7 @@ Specific adjustments are as follows
 |-NESTPVM@bsc|50115280 NEST|
 |-NESTOracle@bsc|20540101 NEST|
 ### After
-|||
+|Member|Balance|
 |---|---|
 |3.6 Mining Pool|2936701701 NEST|
 |NESTDAO|2344284214 NEST|
