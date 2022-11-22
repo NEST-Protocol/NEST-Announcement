@@ -19,17 +19,17 @@ Specific adjustments are as follows
 |---|---|
 |3.6 Mining Pool|4936701701 NEST|
 |NESTDAO|344284214 NEST|
-|DAOAddress@eth|273628833 NEST|
-|NESTPVM@bsc|50115280 NEST|
-|NESTOracle@bsc|20540101 NEST|
+|-DAOAddress@eth|273628833 NEST|
+|-NESTPVM@bsc|50115280 NEST|
+|-NESTOracle@bsc|20540101 NEST|
 ### After
 |||
 |---|---|
 |3.6 Mining Pool|2936701701 NEST|
 |NESTDAO|2344284214 NEST|
-|DAOAddress@eth|2273628833 NEST|
-|NESTPVM@bsc|50115280 NEST|
-|NESTOracle@bsc|20540101 NEST|
+|-DAOAddress@eth|2273628833 NEST|
+|-NESTPVM@bsc|50115280 NEST|
+|-NESTOracle@bsc|20540101 NEST|
 
 The above adjustments will impact quoting miners, option and futures users, so for users, please sell option and futures orders on Ethereum, for miners, please stop quoting on Ethereum.
 
