@@ -6,7 +6,7 @@ Due to the numerous uncertainties arising from the current Ethereum adjustment, 
 
 Specific adjustments are as follows
 
-![img](https://github.com/NEST-Protocol/NEST-Announcement/blob/master/images/NESTBalance.png?raw=true)
+![img](https://github.com/NEST-Protocol/NEST-Announcement/blob/master/images/NESTBalance.jpg?raw=true)
 
 The above adjustments will impact quoting miners, option and futures users, so for users, please sell option and futures orders on Ethereum, for miners, please stop quoting on Ethereum.
 
