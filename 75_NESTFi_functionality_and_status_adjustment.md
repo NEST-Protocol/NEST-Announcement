@@ -1,6 +1,6 @@
 ### [Announcement] NESTFi functionality and status adjustment
 
-n order to satisfy users trading demand, NESTFi will go live with BNB/USDT token pairs, while leverage up to 50x. This upgrade will suspend quotes in current contracts and current futures positions will use the new quotes.
+In order to satisfy users trading demand, NESTFi will go live with BNB/USDT token pairs, while leverage up to 50x. This upgrade will suspend quotes in current contracts and current futures positions will use the new quotes.
 
 #### NESTFi NFTAuction Upgrades
 
