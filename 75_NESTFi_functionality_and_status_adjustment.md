@@ -2,8 +2,6 @@
 
 In order to satisfy users trading demand, NESTFi will go live with BNB/USDT token pairs, while leverage up to 50x. This upgrade will suspend quotes in current contracts and current futures positions will use the new quotes.
 
-#### NESTFi NFTAuction Upgrades
-
 | Before | After |
 | --- | --- |
 | No BNB/USDT Token pair | Add BNB/USDT Token pair |
