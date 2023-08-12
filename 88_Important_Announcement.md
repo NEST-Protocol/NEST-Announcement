@@ -8,7 +8,7 @@ In the aftermath of the hacking incident, NESTDAO has taken the following steps:
 1. Attempted negotiations with the hackers to reclaim the stolen NEST tokens, but a consensus could not be reached.
 2. Attempted to seek compensation from PolyNetwork, which has yet to announce any compensation plans.
 
-Given the significant amount of NEST stolen on the BSC chain, to safeguard the interests of NEST holders on the BSC chain, NESTDAO passed a proposal to replace NEST BEP20 tokens. On July 11th, we successfully completed the replacement of NEST BEP20 tokens (Official Statement: [link](https://twitter.com/NEST_Protocol/status/1678766351295606785), which effectively rendered the value of stolen NEST BEP20 tokens held by the hacker to zero and minimized the losses of the NEST community on the BSC chain.
+Given the significant amount of NEST stolen on the BSC chain, to safeguard the interests of NEST holders on the BSC chain, NESTDAO passed a proposal to replace NEST BEP20 tokens. On July 11th, we successfully completed the replacement of NEST BEP20 tokens (Official Statement: [link](https://twitter.com/NEST_Protocol/status/1678766351295606785)), which effectively rendered the value of stolen NEST BEP20 tokens held by the hacker to zero and minimized the losses of the NEST community on the BSC chain.
 
 We call upon the users of our community to:
 1. Refrain from engaging in any transactions associated with the hacker address.
