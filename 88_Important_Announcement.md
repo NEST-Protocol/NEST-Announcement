@@ -13,8 +13,8 @@ Given the significant amount of NEST stolen on the BSC chain, to safeguard the i
 We call upon the users of our community to:
 1. Refrain from engaging in any transactions associated with the hacker address.
 2. Avoid purchasing NEST tokens on Ethereum-based DEXs (such as Uniswap, 1inch, and other decentralized exchanges).
-We are actively communicating and coordinating with various parties to address this situation.
 
+We are actively communicating and coordinating with various parties to address this situation.
 
 
 <p align="right">NEST DAO</p>
