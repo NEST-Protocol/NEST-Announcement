@@ -11,17 +11,18 @@ Due to the substantial amount of NEST stolen on the BSC chain, and to safeguard 
 Regarding the handling of the stolen NEST ERC20 tokens, considering the rights of NEST users on various exchanges, NESTDAO engaged in extensive discussions and deliberations. Allowing the hackers to continue selling NEST ERC20 tokens would lead to a continuous decrease in NEST's value, thereby eroding the trust NEST team and community have built over the years. To protect the interests of the NEST community and all NEST holders, NESTDAO and the majority of community holders (comprising over 60% of total holdings) mutually agreed to replace the NEST ERC20 token contract. This replacement will enable a 1:1 conversion of the old NEST 1.0 ERC20 tokens into the new NEST 2.0 ERC20 tokens.
 
 The address for the new NEST 2.0 ERC20 tokens is as follows:
-Token Address: 0xcd6926193308d3B371FdD6A6219067E550000000
-Token Symbol: NEST
-Token Decimal: 18
 
-For the process of token replacement, please refer to the user guide on the replacement page: https://www.nestprotocol.org/nest-replacement
+- **Token Address: 0xcd6926193308d3B371FdD6A6219067E550000000**
+- **Token Symbol: NEST**
+- **Token Decimal: 18**
+
+For the process of token replacement, please refer to the user guide on the replacement page: **https://www.nestprotocol.org/nest-replacement**
 
 We kindly ask all community members to actively cooperate in the transition to NEST 2.0 ERC20 tokens. NEST tokens on various exchanges will also be synchronized for replacement. If your NEST tokens are stored on CEX, you are not required to perform any token replacement action.
 
 Please be reminded that you will not be able to exchange for NEST 2.0 ERC20 tokens under the following circumstances:
-1. If your NEST 1.0 ERC20 token address is associated with the hacker's address or you use the exchanges related to the hacker's address after August 17th(UTC+8).
-2. If you have purchased NEST 1.0 ERC20 tokens on DEX platforms like Uniswap after August 17th(UTC+8).
+1. **If your NEST 1.0 ERC20 token address is associated with the hacker's address or you use the exchanges related to the hacker's address after August 17th(UTC+8).**
+2. **If you have purchased NEST 1.0 ERC20 tokens on DEX platforms like Uniswap after August 17th(UTC+8).**
 
 Please ensure that you have not engaged in the above-mentioned activities to facilitate a smooth transition to NEST 2.0 ERC20 tokens.
 
