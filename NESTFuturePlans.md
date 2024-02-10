@@ -14,7 +14,7 @@ Rationale behind the change:
 
 3. The dividend model has a certain effect on attracting non-community participants (not interested in NEST itself, but interested in dividend income), but it also has some negative effects, such as being easy to be misunderstood as securities, or currency holders chasing income more Rate illusion instead of the intrinsic value of the NEST system, etc., repurchase is equivalent to a decision-making requirement for currency holders: in the absence of dividend income, either choose to sell to the system, or hold for a long time based on intrinsic value.
 
-4. The change in dividends to repurchase has changed greatly. The challenge is whether the NEST oracle quotation system is timely enough, whether the game of miners is effective, whether the secondary market and the repurchase system are consistent, etc. This requires the gradual strengthening and improvement of the entire system. But repurchase will increase the use of oracles, which is also the creation of the most basic demand: internal settlement demand.
+4. The change from the dividend mechanism to the repurchase model is significant. The challenge is whether the NEST oracle quotation system will remain timely updated, whether the game of miners will remain effective, whether the secondary market and the repurchase system will be consistent, etc. This requires the gradual strengthening and improvement of the entire NEST system. But repurchase will increase the use of NEST oracles, which will also strengthen the most basic usage: the requirement of internal settlement.
 
 ### 2. An important application is made around the community requirements of the NEST system: Parallel Assets, which requires the NEST protocol to be compatible with parallel asset quotations.
 
